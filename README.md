@@ -1,6 +1,6 @@
 # Adaptive Atrous Spatial Pyramid Pooling Network for Hyperspectral Classification
 
-This code is the implements of ["Adaptive Atrous Spatial Pyramid Pooling Network for Hyperspectral Classification"]
+This code is the implements of ["Adaptive Atrous Spatial Pyramid Pooling Network for Hyperspectral Classification" in Electronics 2023, 12(24), 5013]
 
 ## Requirements
 
